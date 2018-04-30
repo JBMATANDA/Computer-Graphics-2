@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computer Graphics-2", "Computer Graphics-2\Computer Graphics-2.csproj", "{6B3667D8-D136-4996-839C-6DA48D844A53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine2", "GameEngine2\GameEngine2.csproj", "{97ADDBD4-D64B-429D-8A2F-2D8B5DEA7D9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{6B3667D8-D136-4996-839C-6DA48D844A53}.Debug|x86.Build.0 = Debug|x86
 		{6B3667D8-D136-4996-839C-6DA48D844A53}.Release|x86.ActiveCfg = Release|x86
 		{6B3667D8-D136-4996-839C-6DA48D844A53}.Release|x86.Build.0 = Release|x86
+		{97ADDBD4-D64B-429D-8A2F-2D8B5DEA7D9E}.Debug|x86.ActiveCfg = Debug|x86
+		{97ADDBD4-D64B-429D-8A2F-2D8B5DEA7D9E}.Debug|x86.Build.0 = Debug|x86
+		{97ADDBD4-D64B-429D-8A2F-2D8B5DEA7D9E}.Release|x86.ActiveCfg = Release|x86
+		{97ADDBD4-D64B-429D-8A2F-2D8B5DEA7D9E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

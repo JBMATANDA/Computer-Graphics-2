@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace Computer_Graphics_2
+namespace GameEngine2
 {
     /// <summary>
     /// This is the main type for your game.
@@ -17,6 +17,7 @@ namespace Computer_Graphics_2
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
         }
+
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
         /// This is where it can query for any required services and load any non-graphic
